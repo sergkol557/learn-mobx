@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/learn-mobx/static/css/main.2cce8147.chunk.css",
+    "main.js": "/learn-mobx/static/js/main.861b3415.chunk.js",
+    "main.js.map": "/learn-mobx/static/js/main.861b3415.chunk.js.map",
+    "runtime~main.js": "/learn-mobx/static/js/runtime~main.7c5b9db0.js",
+    "runtime~main.js.map": "/learn-mobx/static/js/runtime~main.7c5b9db0.js.map",
+    "static/js/2.6f0b1b61.chunk.js": "/learn-mobx/static/js/2.6f0b1b61.chunk.js",
+    "static/js/2.6f0b1b61.chunk.js.map": "/learn-mobx/static/js/2.6f0b1b61.chunk.js.map",
+    "index.html": "/learn-mobx/index.html",
+    "precache-manifest.30805461cf9ab2a60f052fa043a46350.js": "/learn-mobx/precache-manifest.30805461cf9ab2a60f052fa043a46350.js",
+    "service-worker.js": "/learn-mobx/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/learn-mobx/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/learn-mobx/static/media/logo.5d5d9eef.svg"
+  }
+}
