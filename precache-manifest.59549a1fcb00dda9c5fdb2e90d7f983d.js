@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1168be2d30e2beea73bc639c321defe5",
+    "revision": "e03fe9bac62f44508bb1290242379e4b",
     "url": "/learn-mobx/index.html"
   },
   {
-    "revision": "666ee49916f4fedb2da4",
+    "revision": "22beecc699d0e64c4074",
     "url": "/learn-mobx/static/css/main.2cce8147.chunk.css"
   },
   {
-    "revision": "8f16f4b3f9f8c0f38b2a",
-    "url": "/learn-mobx/static/js/2.6f0b1b61.chunk.js"
+    "revision": "841ce8b2a957aee8a2a0",
+    "url": "/learn-mobx/static/js/2.8c4b6b5b.chunk.js"
   },
   {
-    "revision": "666ee49916f4fedb2da4",
-    "url": "/learn-mobx/static/js/main.861b3415.chunk.js"
+    "revision": "22beecc699d0e64c4074",
+    "url": "/learn-mobx/static/js/main.0dac54ae.chunk.js"
   },
   {
     "revision": "56a4d8c9511294542936",
