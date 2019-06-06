@@ -11,7 +11,6 @@ render() {
   console.log(this.props.age);
     return (
         <div className="App">
-          <img src={logo} className="App-logo" alt="logo" />
           <header className="App-header">
             <DevToos />
             <h1>{this.props.testStore.age}</h1>
